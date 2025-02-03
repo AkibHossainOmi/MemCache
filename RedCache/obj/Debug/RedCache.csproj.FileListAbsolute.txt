@@ -1,0 +1,16 @@
+D:\RedCache\RedCache\bin\Debug\RedCache.exe.config
+D:\RedCache\RedCache\bin\Debug\RedCache.exe
+D:\RedCache\RedCache\bin\Debug\RedCache.pdb
+D:\RedCache\RedCache\bin\Debug\StackExchange.Redis.dll
+D:\RedCache\RedCache\bin\Debug\StackExchange.Redis.xml
+D:\RedCache\RedCache\obj\Debug\RedCache.csprojResolveAssemblyReference.cache
+D:\RedCache\RedCache\obj\Debug\RedCache.exe
+D:\RedCache\RedCache\obj\Debug\RedCache.pdb
+D:\Omi\MemCache\RedCache\bin\Debug\RedCache.exe.config
+D:\Omi\MemCache\RedCache\obj\Debug\RedCache.exe
+D:\Omi\MemCache\RedCache\obj\Debug\RedCache.pdb
+D:\Omi\MemCache\RedCache\bin\Debug\RedCache.exe
+D:\Omi\MemCache\RedCache\bin\Debug\RedCache.pdb
+D:\Omi\MemCache\RedCache\bin\Debug\StackExchange.Redis.dll
+D:\Omi\MemCache\RedCache\bin\Debug\StackExchange.Redis.xml
+D:\Omi\MemCache\RedCache\obj\Debug\RedCache.csprojResolveAssemblyReference.cache

@@ -1,8 +1,0 @@
-D:\MemCache\MemCache\bin\Debug\MemCache.exe.config
-D:\MemCache\MemCache\bin\Debug\MemCache.exe
-D:\MemCache\MemCache\bin\Debug\MemCache.pdb
-D:\MemCache\MemCache\obj\Debug\MemCache.csprojResolveAssemblyReference.cache
-D:\MemCache\MemCache\obj\Debug\MemCache.exe
-D:\MemCache\MemCache\obj\Debug\MemCache.pdb
-D:\MemCache\MemCache\bin\Debug\StackExchange.Redis.dll
-D:\MemCache\MemCache\bin\Debug\StackExchange.Redis.xml
